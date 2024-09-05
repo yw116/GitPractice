@@ -17,3 +17,5 @@ check if they are uncommited, unstaged, or untracked
 `git status`
 
 If you restore, you will delete your changes!!!
+
+trys
