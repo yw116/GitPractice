@@ -20,6 +20,13 @@ check if they are uncommited, unstaged, or untracked
 
 If you restore, you will delete your changes!!!
 
-### How to use the 
-
-`git add <>
+### How to know the timeline of commits and compare them
+- check the timeline of commits
+`git log   `
+- check the last 5 commits
+`git log -n 5` or `git log -5`
+- check the short ID of the last 6 commits
+`git log -n 5 --abbrev-commit`
+- compare commit A and commit B
+`git diff <commit ID A> <commit ID B>`
+`git show <commit ID A> <commit ID B>`
