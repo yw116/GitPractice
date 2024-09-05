@@ -18,4 +18,4 @@ check if they are uncommited, unstaged, or untracked
 
 If you restore, you will delete your changes!!!
 
-trys
+trysaad
