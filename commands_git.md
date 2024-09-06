@@ -31,6 +31,7 @@ If you restore, you will delete your changes!!!
 `git diff <commit ID A> <commit ID B>`
 `git show <commit ID A> <commit ID B>`
 
-From Marvelous: git is hard
+### make a branch
+make a new branch `git branch <branch name>`
+switch to a branch `git checkout <branch name>`
 
-I want to revert this
