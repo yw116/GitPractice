@@ -47,6 +47,3 @@ If you restore, you will delete your changes!!!
 
 
 
-A
-B
-C
