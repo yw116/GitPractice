@@ -27,3 +27,7 @@ You can create a branch so that editing tasks can be done simultaneously from a 
 
 ### Mirror effects
 When working on different branches, new files created in one branch will only show up if you are in that branch. They will not show up if you switch to other branches.
+
+### Fork
+Copy a whole project from others' GitHub into my GitHub.
+After editing, you can make a pull request to the original creator.
