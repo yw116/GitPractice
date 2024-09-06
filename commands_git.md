@@ -42,5 +42,9 @@ If you restore, you will delete your changes!!!
 ### make tags
 - add a tag to the current commit `git tag <name>`
 - add a tag to a previous commit `git tag <name> <commit ID>`
-- list tags `git tag --list`
+- list tags `git tag -l` or `git tag --list`
 - push tags into GitHub `git push --tags`
+
+
+
+A
