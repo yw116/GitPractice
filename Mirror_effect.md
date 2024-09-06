@@ -1,0 +1,1 @@
+Mirror effect- if you are in one branch you cannot see the files or folders in a different branch
