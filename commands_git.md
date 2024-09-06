@@ -32,6 +32,8 @@ If you restore, you will delete your changes!!!
 `git show <commit ID A> <commit ID B>`
 
 ### make a branch
-make a new branch `git branch <branch name>`
-switch to a branch `git checkout <branch name>`
-
+- make a new branch `git branch <branch name>`
+- switch to a branch `git checkout <branch name>`
+- list all branches `git branch -a`
+- switch to a commit and then define a new branch `git checkout <commit ID>` then `git switch -c <new-branch-name>`
+- merge branches: go to the master, then `git merge <branch name>`
