@@ -37,3 +37,10 @@ If you restore, you will delete your changes!!!
 - list all branches `git branch -a`
 - switch to a commit and then define a new branch `git checkout <commit ID>` then `git switch -c <new-branch-name>`
 - merge branches: go to the master, then `git merge <branch name>`
+
+
+### make tags
+- add a tag to the current commit `git tag <name>`
+- add a tag to a previous commit `git tag <name> <commit ID>`
+- list tags `git tag --list`
+- push tags into GitHub `git push --tags`
