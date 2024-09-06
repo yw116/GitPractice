@@ -28,11 +28,9 @@ If you restore, you will delete your changes!!!
 - check the short ID of the last 6 commits
 `git log -n 5 --abbrev-commit`
 - compare commit A and commit B
-`git diff <commit ID old> <commit ID new>`
+`git diff <commit ID A> <commit ID B>`
 `git show <commit ID A> <commit ID B>`
-
-
 
 From Marvelous: git is hard
 
-Something to revert
+I want to revert this
