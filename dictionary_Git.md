@@ -22,3 +22,4 @@ GitHub is a web-based Git repository. Git can be shared with other people on Git
 - Local repository: The place where we prepare for committing, i.e. doing the commit command.
 - Staging area: Location where to prepare new snapshots to the timeline. It is the .git directory. Used to put together the files that need to be committed together.
 
+This will cause conflicts. Great!
