@@ -30,4 +30,7 @@ If you restore, you will delete your changes!!!
 - compare commit A and commit B
 `git diff <commit ID A> <commit ID B>`
 `git show <commit ID A> <commit ID B>`
-git is hard
+
+From Marvelous: git is hard
+
+I want to revert this
